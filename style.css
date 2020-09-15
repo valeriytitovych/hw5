@@ -1,0 +1,82 @@
+/* RESET Styles */
+body, p {
+    margin: 0;
+}
+
+/* BASE */
+* {
+    box-sizing: border-box;
+} 
+
+.center {
+    background: repeating-linear-gradient(to right,
+                #252027,
+                #252027 56px,
+                #0a090e 26px,
+                #0a090e 82px);                    
+    height: 350px;
+    width: 60%;
+    text-align: center;
+    color: #ffffff;     
+}
+
+.block {
+    display: flex;
+    justify-content: center;    
+    background-color: #0a090e;
+    margin-top: 150px;
+}
+
+table {
+    margin: 90px auto 30px;
+}
+
+body {
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    color: #12c9fa;
+}
+
+.icon-path1 {
+    font-size: 32px;
+}
+
+.icon-path2, .icon-path3, .icon-path4, .icon-path5, .icon-path6 {
+    font-size: 20px;
+}
+
+.icon-path7 {
+    font-size: 6px;
+}
+
+.copy {
+    font-size: 12px;
+}
+
+.template {
+    text-align: right;
+}
+
+.kasper {
+    padding-bottom: 8px;
+}
+
+.middle {
+    padding: 4px;
+}
+
+.icon-facebook, .icon-tweeter, .icon-google, .icon-drible {
+    margin: 11px;
+}
+
+.low {
+    padding: 8px;   
+}
+
+.footer {
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
